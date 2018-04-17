@@ -1,0 +1,53 @@
+SG0_class0
+ Class
+0    1151
+1     243
+Cluster counts: Cluster2
+1     243
+2    1151
+Accuracy for SG0_class0 0.733
+
+SG1_class0
+ Class
+0    1257
+1     451
+Cluster counts: Cluster2
+1     474
+2    1234
+Accuracy for SG1_class0 0.7576
+
+SG2_class0
+ Class
+0    1947
+1    1064
+Cluster counts: Cluster2
+1    1119
+2    1892
+Accuracy for SG2_class0 0.8266
+
+SG0_class1
+ Class
+0     227
+1    1166
+Cluster counts: Cluster2
+1     277
+2    1116
+Score SG0_class1 0.7488
+
+SG1_class1
+ Class
+0    121
+1    994
+Cluster counts: Cluster2
+1    135
+2    980
+Score SG1_class1 0.698
+
+SG2_class1
+ Class
+0    334
+1    838
+Cluster counts: Cluster2
+1    681
+2    491
+Score SG2_class1 0.7652

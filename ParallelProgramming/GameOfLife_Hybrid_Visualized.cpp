@@ -207,7 +207,6 @@ bool* readInputArray(char* file_name, int rank, int* rows, int* cols)
 
         if(rank == 0)
         {
-            cout << "Made it in retr" << endl;
             int row_offset = 0;
             array = (bool*)malloc(sizeof(bool) * (*rows) * (*cols));
             assert(array != NULL);
